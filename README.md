@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Jeová's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeovaramos&count_private=true)](https://github.com/jeovaramos/github-readme-stats)
+[![Jeová's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeovaramos&count_private=true&show_icons=true)](https://github.com/jeovaramos/github-readme-stats)
 
 
 <!--
