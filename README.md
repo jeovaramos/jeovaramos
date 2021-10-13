@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Jeová's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeovaramos&count_private=true)](https://github.com/jeovaramos/github-readme-stats)
+
+
 <!--
 **jeovaramos/jeovaramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
