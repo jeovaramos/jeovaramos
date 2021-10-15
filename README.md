@@ -1,5 +1,6 @@
 # Hi there! My name is Jeová Ramos. 👋
-I am building my data science portfolio. Please, make yourself home.
+🔭 I’m currently working on building my data science's projects portfolio. I already have professional experience in the area, but with focus in meteorology products, my graduate area, and it is my current job. While the projects portifolio still note done, please check out these following study projects. Both are web apps, the first one for exploratory data analytics and the second one detects objects in video.
+Hope you enjoy. :)
 
 <div align="center">
   <a href="https://github.com/jeovaramos">
@@ -10,7 +11,7 @@ I am building my data science portfolio. Please, make yourself home.
   <div style="display: inline_block"><br>
   <a href = "mailto:silvajunior.jeova@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jeova-ramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=11982843384" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=+5511982843384" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
  
  ![Snake animation](https://github.com/jeovaramos/jeovaramos/blob/output/github-contribution-grid-snake.svg)
